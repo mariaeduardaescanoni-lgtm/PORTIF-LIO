@@ -1,2 +1,2 @@
-# PORTIF-LIO
-Construção do meu portifólio profissional.
+# PORTIFoLIO
+Aqui estarão os processos para a construção do meu portifólio profissional
